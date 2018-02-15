@@ -1,0 +1,7 @@
+/bin
+/target
+/trafficAppletSources.zip
+/trafficsimulation.jar
+*.sh
+.classpath
+.project
